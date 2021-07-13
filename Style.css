@@ -1,0 +1,13 @@
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+}
